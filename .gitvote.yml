@@ -96,6 +96,7 @@ profiles:
       users: 
         - riaankleinhans
         - SecurityCRob
+        - afmarcum
 
     # Periodic status check
     # 
